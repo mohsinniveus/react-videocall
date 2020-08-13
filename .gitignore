@@ -1,0 +1,5 @@
+client/dist/
+client/index.html
+# dependencies
+node_modules
+package-lock.json
